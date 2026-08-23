@@ -412,6 +412,3 @@ Install it:
 sudo apt install -y can-utils
 ```
 
-# License
-
-Use this project as an educational and engineering test harness. Add the license and copyright policy required by your organization or course before public redistribution.
